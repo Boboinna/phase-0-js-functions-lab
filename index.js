@@ -29,7 +29,6 @@ function isPalindrome(word) {
 }
 
 console.log(isPalindrome("racecar")); // true
-console.log(isPalindrome("Racecar")); // true  (case-insensitive)
 console.log(isPalindrome("hello")); // false
 
 // 5
